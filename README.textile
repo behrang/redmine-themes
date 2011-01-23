@@ -1,0 +1,10 @@
+h1. Persian Redmine Themes
+
+h2. About
+
+p. Redmine themes can be customized and here there is a theme based on Basecamp theme that is manipulated to support RTL. It also has a font for better display of Persian glyphs.
+
+h2. Installation
+
+p. To install, copy the basecamp-persian folder under your redmine/public/themes folder. Then choose basecamp-persian in display tab of redmine settings.
+
